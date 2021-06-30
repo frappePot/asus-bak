@@ -11,3 +11,5 @@ git diff 功能体现
 
 
 20210630 添加新的记录检测git push 功能
+
+20210630 第二次 add new line
